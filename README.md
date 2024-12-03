@@ -24,7 +24,7 @@ Pywinauto supports both native Windows GUI controls (via the `win32` backend) an
 3. **Install PywinautoLibrary:** After cloning this repository, you can install the PywinautoLibrary with the following commands:
    ```bash
    git clone https://github.com/AnoopGR/robotframework-pywinautolibrary.git
-   cd PywinautoLibrary
+   cd robotframework-pywinautolibrary
    pip install .
 
 ## Usage
