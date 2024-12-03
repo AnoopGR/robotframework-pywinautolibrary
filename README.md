@@ -50,7 +50,7 @@ Open Notepad, Type Text and Save
 
 ## Keyword Documentation
 
-See Keyword Documentation for available keywords.
+See [Keyword Documentation](https://anoopgr.github.io/robotframework-pywinautolibrary/PywinautoLibrary.html) for available keywords.
 
 ## Contributing
 
@@ -64,7 +64,7 @@ Contributions are welcome! To contribute to the project, please follow these ste
 6. Please make sure your code adheres to the existing coding style and includes tests for any new functionality.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
 ## Reference
 
